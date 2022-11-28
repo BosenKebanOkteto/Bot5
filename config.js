@@ -25,7 +25,7 @@ global.saweria = '-'
 global.dana = '08992669816'
 global.pulsa = '085813262667'
 global.gopay = '08992669816'
-global.shopay = '08992669816'
+global.shopay = '-'
 global.ovo = '08992669816'
 
 // PROFILE ALL 
