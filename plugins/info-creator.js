@@ -28,7 +28,7 @@ VERSION:3.0
 N:;;;
 FN: gstiikhsan
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=6289992669:628992669816@s.whatsapp.net
+item1.TEL;waid=628992669816:628992669816@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
 item2.EMAIL;type=INTERNET: san536637@gmail.com
 item2.X-ABLabel:📫 Gmail
